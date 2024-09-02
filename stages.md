@@ -1,14 +1,11 @@
-|   LOCAL   ||||||||   REMOTE  |
-|----|----|----|----|----|----|----|----|----|
-|   |   git init    |   |   git add |   |   git commit  |   |   git push |  |
-|   Arbeitsverzeichnis (untracked by git)   | |   Arbeitsverzeichnis(Tracked by git)    | |   Staging Area    |   |   Local Repository    |   |   Remote Repository   |
-
 <table>
     <tr>
-        <th colspan=8>LOCAL</th>
-        <th>REMOTE</th>
+        <th> </th>
+        <th colspan=7>LOCAL</th>
+        <th colspan="2">REMOTE</th>
     </tr>
     <tr>
+        <th>Befehl:</th>
         <td></td>
         <td>git init</td>
         <td></td>
@@ -20,6 +17,7 @@
         <td></td>
     </tr>
     <tr>
+        <th>Status:</th>
         <td>Arbeitsverzeichnis (untracked by git)</td>
         <td></td>
         <td>Arbeitsverzeichnis(Tracked by git)</td>

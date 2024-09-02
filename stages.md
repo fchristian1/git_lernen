@@ -5,7 +5,7 @@
 
 <table>
     <tr>
-        <th>LOCAL</th>
+        <th colspan="8">LOCAL</th>
         <th>REMOTE</th>
     </tr>
     <tr>
